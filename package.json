@@ -1,0 +1,19 @@
+{
+  "name": "inpostc",
+  "version": "1.0.0",
+  "description": "inpost cypress automation framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/masjesz/InPostC.git"
+  },
+  "author": "Maciej Wawryczuk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/masjesz/InPostC/issues"
+  },
+  "homepage": "https://github.com/masjesz/InPostC#readme"
+}
