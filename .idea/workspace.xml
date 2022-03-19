@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="45bd22d6-3027-46a6-aae1-ef4851ec3556" name="Changes" comment="cucumber" />
+    <list default="true" id="45bd22d6-3027-46a6-aae1-ef4851ec3556" name="Changes" comment="test-opis">
+      <change afterPath="$PROJECT_DIR$/cypress/integration/inpost.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cypress/support/step_definitions/inpost-steps.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cypress/integration/features/sledzenie_paczek.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cypress/integration/inpost-test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cypress/plugins/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/cypress/plugins/index.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,7 +38,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Program Files/nodejs/node.exe" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/cypress/integration/sledzenie_paczek.feature" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -50,7 +57,7 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration name="Unnamed" type="CypressConfigurationType" factoryName="Cypress" nameIsGenerated="true" show_console_on_std_err="false" show_console_on_std_out="false">
+    <configuration name="cypress\integration\sledzenie_paczek.feature" type="CypressConfigurationType" factoryName="Cypress" nameIsGenerated="true" show_console_on_std_err="false" show_console_on_std_out="false">
       <option name="allowRunningInParallel" value="false" />
       <option name="envs">
         <map />
@@ -65,7 +72,7 @@
       <option name="textRange" />
       <option name="allNames" />
       <option name="specsDir" />
-      <option name="specFile" value="" />
+      <option name="specFile" value="C:\Dev\InPostC\cypress\integration\sledzenie_paczek.feature" />
       <option name="testName" />
       <option name="workingDirectory" value="file://$PROJECT_DIR$" />
       <option name="envs">
@@ -89,7 +96,7 @@
       <option name="presentableId" value="Default" />
       <updated>1647528040143</updated>
       <workItem from="1647528042364" duration="495000" />
-      <workItem from="1647703164504" duration="7721000" />
+      <workItem from="1647703164504" duration="11042000" />
     </task>
     <task id="LOCAL-00001" summary="config">
       <created>1647705396745</created>
@@ -133,7 +140,14 @@
       <option name="project" value="LOCAL" />
       <updated>1647712800101</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="test-opis">
+      <created>1647715377052</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1647715377052</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -158,6 +172,7 @@
     <MESSAGE value="1 test" />
     <MESSAGE value="reference" />
     <MESSAGE value="cucumber" />
-    <option name="LAST_COMMIT_MESSAGE" value="cucumber" />
+    <MESSAGE value="test-opis" />
+    <option name="LAST_COMMIT_MESSAGE" value="test-opis" />
   </component>
 </project>
