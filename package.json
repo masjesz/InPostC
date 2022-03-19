@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/masjesz/InPostC/issues"
   },
-  "homepage": "https://github.com/masjesz/InPostC#readme"
+  "homepage": "https://github.com/masjesz/InPostC#readme",
+  "devDependencies": {
+    "cypress": "^9.5.2"
+  }
 }
