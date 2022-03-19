@@ -1,0 +1,32 @@
+{
+  "baseUrl": "https://sta.folderflow.com/#/login",
+  "chromeWebSecurity": false,
+  "defaultCommandTimeout": 10000,
+  "pageLoadTimeout": 50000,
+  "ignoreTestFiles": "**/other/*",
+  "env": {
+    "cofa": {
+      "existingLotNumber": 612801858254,
+      "existingMaterialNumber": 309791574258,
+      "legacyMaterialNumber": 19201,
+      "legacyLotNumber": 142341616,
+      "lotZero": 0,
+      "nonExistingLotNumber": 999888777444
+    },
+    "sds": {
+      "sid": "1000000353861",
+      "sidForMultipleLac": "2000000908007",
+      "materialNumber": 1563576862,
+      "county": "Germany",
+      "partialSDSName": "KIT_SUB K1",
+      "properSDSName": "KIT_SUB K100ndyNg"
+    },
+    "ziflow": {
+
+    },
+    "sds_homepage": "knowledge-and-support/product-and-technical-support/quality-and-safety-data/sds-search/",
+    "cofa_homepage": "knowledge-and-support/product-and-technical-support/quality-and-safety-data/cofa-search/",
+    "cofa_bulk": "knowledge-and-support/product-and-technical-support/quality-and-safety-data/cofa-search/bulk",
+    "ziflow": ""
+  }
+}
