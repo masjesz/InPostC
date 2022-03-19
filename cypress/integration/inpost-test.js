@@ -1,4 +1,6 @@
+/// <reference types="Cypress" />
+
 describe("Test Inpost Page", () => {
-it("Powinien znaleść paczki na głównej stronie")
+    it("Powinien znaleść paczki na głównej stronie")
 //jedziemy
 })
